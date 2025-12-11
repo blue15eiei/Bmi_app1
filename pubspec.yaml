@@ -1,0 +1,26 @@
+name: burapha_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: 3.8.1
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/Logo.png
+  - assets/mybg.jpg
+  - assets/ปกจิ.png
+  - assets/ผมมาก.png
+  - assets/เริ่มอ้วน.png
+  - assets/อ้วน.jpg
+  - assets/อ้วนมากผิดปกต.jpg
